@@ -184,7 +184,7 @@ condition_variable cond_var;
 bool flag = false;
 
 Queue sharedData(1, 10);
- int deleted = sharedData.dequeue();
+int deleted = sharedData.dequeue();
 
 void Producer() {
     {

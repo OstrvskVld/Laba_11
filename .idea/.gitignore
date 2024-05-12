@@ -1,8 +1,8 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+/../../Laba_11./.idea/shelf/
+/../../Laba_11./.idea/workspace.xml
 # Editor-based HTTP Client requests
-/httpRequests/
+/../../Laba_11./.idea/httpRequests/
 # Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+/../../Laba_11./.idea/dataSources/
+/../../Laba_11./.idea/dataSources.local.xml
